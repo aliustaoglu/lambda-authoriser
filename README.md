@@ -1,0 +1,1 @@
+A custom Lambda authoriser that generates JWT token and sends this back to the clien.
